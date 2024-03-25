@@ -36,6 +36,14 @@ function App() {
         <Mode name="Menú" keyword="menú" description="Lee las opciones disponibles."/>
       </div>
 
+      <div class="code">
+        <p class="text">Código fuente</p>
+        <p class="text2">👁️‍🗨️ Aplicación BlindView</p>
+        <a class="link" href="https://google.es">https://github.com/proyectosextraordinariosjmv/BlindView</a>
+        <p class="text2">☝🤓 Web BlindView</p>
+        <a class="link" href="https://google.es">https://github.com/proyectosextraordinariosjmv/blindview-web</a>
+      </div>
+
       <Memoria/>
     </React.Fragment>
   );
