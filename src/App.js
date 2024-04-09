@@ -40,7 +40,7 @@ function App() {
         <p class="text">Código fuente</p>
         <p class="text2">👁️‍🗨️ Aplicación BlindView</p>
         <a class="link" href="https://google.es">https://github.com/proyectosextraordinariosjmv/BlindView</a>
-        <p class="text2">💻 Web BlindView</p>
+        <p class="text2">💻 Página Web BlindView</p>
         <a class="link" href="https://google.es">https://github.com/proyectosextraordinariosjmv/blindview-web</a>
       </div>
 

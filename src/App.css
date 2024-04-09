@@ -149,24 +149,26 @@
 }
 
 .code {
-  background-color: #AABBC;
+  background-color: #191919;
   width: 100%;
-  padding-bottom: 20px;
+  padding-bottom: 40px;
   text-align: center;
 }
 
 .code > .text {
   font-size: 40px;
   text-align: center;
-  font-family: helvetica;
-  padding-top: 15px;
-  text-decoration-color: #223333;
-  color: #191919;
+  font-family: monospace;
+  text-decoration-color: #AABBCC;
+  color: #ffffff;
+  background-color: #151515;
+  padding-bottom: 15px;
+  padding-top: 20px;
 }
 
 .code > .text2 {
   font-size: 20px;
-  padding-left: 20px;
+  color: #ffffff;
 }
 
 .code > .link {
@@ -174,7 +176,6 @@
   font-size: 20px;
   text-decoration: underline;
   color: #35b6e6;
-  padding-left: 20px;
 }
 
 .code > .link:hover {
@@ -182,7 +183,6 @@
   font-size: 20px;
   text-decoration: underline;
   color: #006aff;
-  padding-left: 20px;
 }
 
 body {
