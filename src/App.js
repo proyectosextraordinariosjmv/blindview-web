@@ -39,9 +39,9 @@ function App() {
       <div class="code">
         <p class="text">Código fuente</p>
         <p class="text2">👁️‍🗨️ Aplicación BlindView</p>
-        <a class="link" href="https://google.es">https://github.com/proyectosextraordinariosjmv/BlindView</a>
+        <a class="link" href="https://github.com/proyectosextraordinariosjmv/BlindView">https://github.com/proyectosextraordinariosjmv/BlindView</a>
         <p class="text2">💻 Página Web BlindView</p>
-        <a class="link" href="https://google.es">https://github.com/proyectosextraordinariosjmv/blindview-web</a>
+        <a class="link" href="https://github.com/proyectosextraordinariosjmv/blindview-web">https://github.com/proyectosextraordinariosjmv/blindview-web</a>
       </div>
 
       <Memoria/>
